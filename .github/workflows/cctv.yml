@@ -41,4 +41,4 @@ jobs:
         fi
 
     env:
-      TZ: Asia/Shanghai
+      TZ: Asia/Shijiazhuang
