@@ -72,17 +72,27 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="央视频道",CCTV17
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://119.129.238.239:10000/rtp/239.77.0.114:5146$1920x1080
+http://lzjzyh.xyz:8888/udp/239.20.0.64:3144$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://113.101.160.29:8888/rtp/239.77.0.1:5146$1920x1080
+http://58.252.12.164:8000/udp/239.77.0.1:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
 http://119.129.238.239:10000/rtp/239.77.0.1:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://113.119.195.184:9999/rtp/239.77.0.1:5146$1920x1080
+http://113.99.130.128:4080/rtp/239.77.0.1:5146$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://116.28.124.202:8520/rtp/239.77.0.1:5146$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://113.65.7.43:8888/udp/239.77.0.1:5146$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://www.zz49.top:4022/udp/239.77.1.94:5146$720x576
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://116.28.124.202:8520/udp/239.77.0.3:5146$720x576
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://113.67.164.10:8888/udp/239.77.1.94:5146$720x576
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
 http://113.65.94.97:10000/udp/239.77.1.94:5146$720x576
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
+https://stream1.freetv.fun/468bff09871ed8a1eba7a539f461001a9683ac2cbb084ef2d52449c7f1a52478.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
 http://113.65.162.95:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
@@ -92,173 +102,189 @@ http://183.11.239.36:808/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
 http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8$IPv6
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
 http://gmxw.7766.org:808/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://113.101.160.29:8888/rtp/239.77.0.114:5146$1920x1080
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8$IPv6
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://113.119.195.184:9999/rtp/239.77.0.114:5146$1920x1080
+http://113.99.130.128:4080/rtp/239.77.0.114:5146$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://116.28.124.202:8520/rtp/239.77.0.114:5146$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://119.129.238.239:10000/rtp/239.77.0.114:5146$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://113.99.130.128:4080/rtp/239.77.1.94:5146$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://116.28.124.202:8520/rtp/239.77.1.94:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
 http://119.129.238.239:10000/rtp/239.77.1.94:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://113.101.160.29:8888/rtp/239.77.1.94:5146$1920x1080
+http://www.zz49.top:4022/udp/239.77.0.3:5146$720x576
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://113.119.195.184:9999/rtp/239.77.1.94:5146$1920x1080
+http://116.28.124.202:8520/rtp/239.77.1.94:5146$720x576
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://116.28.124.202:8520/udp/239.77.0.114:5146$720x576
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://113.67.164.10:8888/udp/239.77.0.114:5146$720x576
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://116.28.124.202:8520/udp/239.77.0.1:5146$720x576
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
+http://113.65.7.43:8888/udp/239.77.0.114:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
 https://stream1.freetv.fun/cd093c8b92ae68affb34b3b0f147bbdac575b4eee76ac0410e85d2777d808b6e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://113.65.94.97:10000/udp/239.77.0.3:5146$720x576
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://113.65.94.97:10000/udp/239.77.0.114:5146$720x576
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-https://stream1.freetv.fun/3e6c646d717a824425bca6f4f12c9091cc4725ab1afa8227b24b7a5bc6fcb019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-https://stream1.freetv.fun/468bff09871ed8a1eba7a539f461001a9683ac2cbb084ef2d52449c7f1a52478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://113.65.94.97:10000/udp/239.77.0.1:5146$720x576
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="广东频道",广东珠江
-https://stream1.freetv.fun/5f12b986a77ebe5440c508c13895b3e7f8767b2a47c79f3f5fe948097e15337d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
 http://125.93.74.27:9002/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+http://125.93.74.27:9002/tsfile/live/0140_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
 http://119.135.1.16:6699/live/1058/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
 http://www.zzlag.top:9087/tsfile/live/1036_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+http://zhancheng.x3322.net:6699/live/1058/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
 http://113.65.162.95:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+http://113.99.130.128:4080/rtp/239.77.0.112:5146$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+http://116.28.124.202:8520/rtp/239.77.0.112:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
 http://119.129.238.239:10000/rtp/239.77.0.112:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://113.101.160.29:8888/rtp/239.77.0.112:5146$1920x1080
+http://113.99.130.128:4080/rtp/239.77.0.168:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://113.119.195.184:9999/rtp/239.77.0.112:5146$1920x1080
+http://116.28.124.202:8520/rtp/239.77.0.168:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
 http://119.129.238.239:10000/rtp/239.77.0.168:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://113.101.160.29:8888/rtp/239.77.0.168:5146$1920x1080
+http://113.99.130.128:4080/rtp/239.77.1.97:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://113.119.195.184:9999/rtp/239.77.0.168:5146$1920x1080
+http://116.28.124.202:8520/rtp/239.77.1.97:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
 http://119.129.238.239:10000/rtp/239.77.1.97:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://113.101.160.29:8888/rtp/239.77.1.97:5146$1920x1080
+http://www.zz49.top:4022/udp/239.77.0.112:5146$720x576
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://113.119.195.184:9999/rtp/239.77.1.97:5146$1920x1080
+http://113.67.164.10:8888/udp/239.77.0.168:5146$720x576
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-https://stream1.freetv.fun/e05d674500d8dcf73754cb11d4dcd8ef9e88f287888a1b71fd0766e90963db66.m3u8
+http://113.65.7.43:8888/udp/239.77.1.97:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-https://stream1.freetv.fun/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-https://stream1.freetv.fun/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://113.65.94.97:10000/udp/239.77.1.97:5146$720x576
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-https://stream1.freetv.fun/3864d41a409cbbbd8579e4ec03eb47e6cf65b15f5cae7c3cd44ccd4b9991a017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://183.11.239.36:808/hls/2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://113.65.94.97:10000/udp/239.77.0.168:5146$720x576
+http://www.zz49.top:4022/udp/239.77.0.168:5146$720x576
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
 http://gmxw.7766.org:808/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://113.65.94.97:10000/udp/239.77.0.6:5146$720x576
+http://116.28.124.202:8520/rtp/239.77.0.168:5146$720x576
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://120.238.84.44:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.zz49.top:4022/udp/239.77.1.97:5146$720x576
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+http://www.zz49.top:4022/udp/239.77.0.6:5146$720x576
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
-http://125.93.74.27:9002/tsfile/live/0140_1.m3u8
+http://116.28.124.202:8520/rtp/239.77.1.97:5146$720x576
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+https://stream1.freetv.fun/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+http://116.28.124.202:8520/rtp/239.77.0.112:5146$720x576
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东频道",广东体育
+http://116.28.124.202:8520/udp/239.77.1.97:5146$720x576
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://60.220.167.85:8082/rtp/226.0.2.146:9080$1920x1080
+http://iptv.yjxfz.com:80/tv/play/4/JNAN1D05IEIIA59E/N9E90D28495IN71E$2560x1440
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://60.220.167.241:8083/rtp/226.0.2.146:9080$1920x1080
+http://60.220.167.130:8085/rtp/226.0.2.146:9080$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://171.125.90.130:6000/rtp/226.0.2.146:9080$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://118.81.35.16:8005/rtp/226.0.2.146:9080$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://110.178.52.91:8083/rtp/239.1.1.49:8049$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://115.216.2.43:4022/rtp/233.50.200.187:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://110.178.52.75:8083/rtp/239.1.1.49:8049$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://wouu.net:9977/rtp/239.93.0.181:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://1.70.33.48:8084/rtp/239.1.1.49:8049$1920x1080
+http://60.220.167.197:8083/rtp/226.0.2.146:9080$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
 http://110.87.12.51:5550/rtp/239.61.2.33:8192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://171.213.145.88:5555/rtp/239.93.0.181:5140$1920x1080
+http://60.27.20.30:5555/rtp/225.1.1.116:5002$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://1.70.35.119:8083/rtp/239.1.1.49:8049$1920x1080
+http://183.185.67.245:8084/rtp/226.0.2.146:9080$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://27.10.77.52:8005/udp/225.0.4.84:7980$1920x1080
+http://119.166.31.243:1026/rtp/239.253.254.90:8000$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://110.178.52.91:8082/rtp/239.1.1.49:8049$1920x1080
+http://110.178.52.75:8083/rtp/239.1.1.49:8049$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://118.81.35.18:8005/rtp/226.0.2.146:9080$1920x1080
+http://115.193.110.191:8888/rtp/233.50.200.187:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://125.119.19.208:9999/rtp/233.50.200.187:5140$1920x1080
+http://110.178.52.91:8083/rtp/239.1.1.49:8049$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://171.116.183.226:8084/rtp/226.0.2.146:9080$1920x1080
+http://223.10.11.187:8082/rtp/239.1.1.49:8049$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://123.113.110.201:4022/rtp/239.3.1.142:8048$1920x1080
+http://1.70.32.19:8084/rtp/239.1.1.49:8049$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://61.188.254.218:9527/rtp/239.93.0.181:5140$1920x1080
+http://42.4.217.176:9009/rtp/232.0.0.130:1234$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://116.226.30.31:4022/rtp/239.45.3.230:5140$1920x1080
+http://61.190.129.195:8688/rtp/238.1.78.161:7160$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://112.66.227.65:554/rtp/239.253.64.200:5140$1920x1080
+http://123.113.186.207:8000/rtp/239.3.1.142:8048$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://116.226.30.31:4022/udp/239.45.3.230:5140$1920x1080
+http://60.220.167.85:8082/rtp/226.0.2.146:9080$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://123.123.167.240:8000/rtp/239.3.1.142:8048$1920x1080
+http://60.220.167.197:8082/rtp/226.0.2.146:9080$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://124.230.56.55:55555/rtp/239.76.252.189:9000$1920x1080
+http://118.79.7.119:6001/rtp/226.0.2.146:9080$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://115.225.32.138:4000/rtp/233.50.201.102:5140$1920x1080
+http://wouu.net:9977/udp/239.93.0.181:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://123.113.237.160:8888/rtp/239.3.1.142:8048$1920x1080
+http://171.116.12.142:8085/rtp/226.0.2.146:9080$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://home.yulei.online:9999/rtp/226.0.2.146:9080$1920x1080
+http://123.112.213.221:4022/rtp/239.3.1.142:8048$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://buffaloft.ignorelist.com:8888/rtp/239.3.1.142:8048$1920x1080
+http://124.129.78.38:3333/rtp/239.253.254.90:8000$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://171.116.226.246:8085/rtp/226.0.2.146:9080$1920x1080
+http://223.215.3.199:2000/rtp/238.1.78.161:7160$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
-http://171.213.144.105:9999/rtp/239.93.0.181:5140$1920x1080
+http://110.178.52.75:8082/rtp/239.1.1.49:8049$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
+http://42.4.217.176:9006/rtp/232.0.0.130:1234$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
+http://114.252.227.154:8000/rtp/239.3.1.142:8048$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
+http://171.117.124.55:8085/rtp/226.0.2.146:9080$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
+http://ayolee.com:5253/rtp/239.93.0.181:5140$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
+http://123.113.183.117:9000/rtp/239.3.1.142:8048$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="广东频道",广东卫视
+http://60.220.167.130:8083/rtp/226.0.2.146:9080$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
+http://ikuai.zlsip.top:4022/rtp/239.3.1.134:8020$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
 http://kms.erfiy.com:8884/udp/225.0.4.202:7980$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://61.163.181.78:9901/tsfile/live/1041_1.m3u8
+http://113.119.39.15:4021/udp/239.77.1.21:5146$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://123.132.233.194:352/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://115.149.139.141:10001/tsfile/live/1032_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://121.24.98.129:8090/hls/84/index.m3u8
+http://114.246.181.171:4022/rtp/239.3.1.134:8020$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
 http://116.128.224.11:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
+http://121.24.98.129:8090/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
 http://124.205.11.239:91/live/SZWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://iptvcyp.top:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.149.139.141:10001/tsfile/live/1032_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://58.57.21.166:9901/tsfile/live/0126_1.m3u8
+http://123.132.233.194:352/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
+http://171.120.7.130:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
 http://[2409:8087:1a01:df::4009]/TVOD/88888888/224/3221225668/main.m3u8$IPv6
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://[2409:8087:74F1:0021::0008]/000000001000PLTV/88888888/224/3221226199/index.m3u8?HlsProfileId=$IPv6
+http://[2409:8087:1a01:df::4035]/TVOD/88888888/224/3221225943/main.m3u8$IPv6
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
+http://58.57.21.166:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
+http://iptvcyp.top:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
 http://[2409:8087:74f0:22::5]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000529$IPv6
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://[2409:8087:1a01:df::4035]/TVOD/88888888/224/3221225943/main.m3u8$IPv6
+http://[2409:8087:74F1:0021::0008]/000000001000PLTV/88888888/224/3221226199/index.m3u8?HlsProfileId=$IPv6
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
+http://61.163.181.78:9901/tsfile/live/1041_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
 http://124.128.73.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
@@ -285,14 +311,6 @@ http://117.27.190.42:9998/tsfile/live/23274_1.m3u8?key=txiptv&playlive=1&authid=
 http://125.93.74.27:9002/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
 http://58.51.111.46:1111/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://59.173.183.242:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://220.164.192.48:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://58.57.21.166:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/重庆卫视.png" group-title="卫视频道",重庆卫视
@@ -368,6 +386,8 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/翡翠台.png" group-title="港·澳·台",翡翠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/翡翠台.png" group-title="港·澳·台",翡翠台
+http://58.250.155.2:8180/TV00000000000000000032@HHZT$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/翡翠台.png" group-title="港·澳·台",翡翠台
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/翡翠台.png" group-title="港·澳·台",翡翠台
 https://pi.0472.org/tv/fct.php?auth=230918
@@ -380,27 +400,31 @@ http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/明珠台.png" group-title="港·澳·台",明珠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://146.56.153.245:20121/bysid/258$1920x1080
+http://eastscreen.tv/ooooo.php?id=fhws$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://171.223.215.229:4000/udp/239.93.1.9:2192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://lidahai.top:8100/udp/239.93.0.162:2192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://122.224.232.226:8888/rtp/233.50.200.191:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://www.tk1986.top:8888/udp/239.76.253.135:9000$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.193.110.191:8888/rtp/233.50.200.191:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://171.223.215.229:4000/udp/239.93.0.162:2192$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.203.157.51:58888/rtp/233.50.200.191:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://125.113.161.90:8888/rtp/233.50.200.191:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://146.56.153.245:20121/bysid/258$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://115.239.104.127:9999/rtp/233.50.200.191:5140$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://yuzhe.ltd:5555/udp/239.93.1.9:2192$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://tv.sd.cn/sichuan?id=239.93.0.162:2192$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://125.109.62.72:9999/rtp/233.50.200.191:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://36.24.62.172:9999/rtp/233.50.200.191:5140$1920x1080
+http://sss918.synology.me:8000/rtp/233.50.200.191:5140$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://115.203.157.51:58888/rtp/233.50.200.191:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://8.137.59.151:3009/TV2/gat.php?id=1$1000x480
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
@@ -408,47 +432,41 @@ http://117.114.153.26:8180/TV00000000000000000069@HHZT$720x576
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://171.213.145.88:5555/rtp/239.93.1.9:2192$1920x1080
+http://171.213.213.182:5555/rtp/239.93.1.9:2192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://61.188.254.218:9527/rtp/239.93.1.9:2192$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://wouu.net:9977/rtp/239.93.1.9:2192$1920x1080
+http://yuzhe.ltd:5555/rtp/239.93.1.9:2192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://222.212.152.220:4443/rtp/239.93.1.9:2192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://171.213.144.105:9999/rtp/239.93.1.9:2192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.216.2.43:4022/rtp/233.50.200.191:5140$1920x1080
+http://ayolee.com:5253/rtp/239.93.1.9:2192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://183.156.155.239:5555/rtp/233.50.200.191:5140$1920x1080
+http://171.213.145.88:5555/rtp/239.93.1.9:2192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.225.32.138:4000/rtp/233.50.200.191:5140$1920x1080
+http://182.138.201.254:4022/rtp/239.93.1.9:2192$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.230.188.146:9999/rtp/233.50.200.191:5140$1920x1080
+http://60.189.61.82:9999/rtp/233.50.200.191:5140$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://115.193.166.81:8888/rtp/233.50.200.191:5140$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://115.193.110.191:8888/rtp/233.50.200.191:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://tiaoxi.asia:4022/rtp/233.50.200.191:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://125.119.19.208:9999/rtp/233.50.200.191:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://125.126.201.93:9999/rtp/233.50.200.191:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.239.104.127:9999/rtp/233.50.200.191:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://59.51.113.36:18888/rtp/239.76.253.135:9000$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://125.119.19.208:9999/rtp/233.50.200.192:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://115.230.250.238:9999/rtp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://www.372583307.top:4022/udp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://58.215.231.60/live2.rxip.sc96655.com/live/test2_4000.m3u8
+http://115.230.250.238:9999/rtp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
+http://58.215.231.60/live2.rxip.sc96655.com/live/test2_4000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
@@ -456,49 +474,53 @@ http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://171.213.145.88:5555/rtp/239.93.1.4:2191$1920x1080
+http://171.213.213.182:5555/rtp/239.93.1.4:2191$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://61.188.254.218:9527/rtp/239.93.1.4:2191$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://wouu.net:9977/rtp/239.93.1.4:2191$1920x1080
+http://yuzhe.ltd:5555/rtp/239.93.1.4:2191$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://222.212.152.220:4443/rtp/239.93.1.4:2191$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://171.213.144.105:9999/rtp/239.93.1.4:2191$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://115.216.2.43:4022/rtp/233.50.200.192:5140$1920x1080
+http://ayolee.com:5253/rtp/239.93.1.4:2191$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://183.156.155.239:5555/rtp/233.50.200.192:5140$1920x1080
+http://171.213.145.88:5555/rtp/239.93.1.4:2191$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://115.225.32.138:4000/rtp/233.50.200.192:5140$1920x1080
+http://182.138.201.254:4022/rtp/239.93.1.4:2191$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://125.109.62.72:9999/rtp/233.50.200.192:5140$1920x1080
+http://60.189.61.82:9999/rtp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://115.230.188.146:9999/rtp/233.50.200.192:5140$1920x1080
+http://115.193.166.81:8888/rtp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://115.193.110.191:8888/rtp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://tiaoxi.asia:4022/rtp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://125.113.161.90:8888/rtp/233.50.200.192:5140$1920x1080
+http://183.156.155.239:5555/rtp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://125.126.201.93:9999/rtp/233.50.200.192:5140$1920x1080
+http://125.109.62.72:9999/rtp/233.50.200.192:5140$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
+http://183.134.132.54:82/rtp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://115.239.104.127:9999/rtp/233.50.200.192:5140$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
+http://125.113.161.90:8888/rtp/233.50.200.192:5140$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
+http://115.230.188.146:9999/rtp/233.50.200.192:5140$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
+http://115.220.22.61:8088/rtp/233.50.200.192:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://59.51.113.36:18888/rtp/239.76.253.134:9000$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://124.230.56.55:55555/rtp/239.76.253.134:9000$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://122.224.232.226:8888/udp/233.50.200.192:5140$1920x1080
+http://124.230.56.93:55555/rtp/239.76.253.134:9000$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+http://175.9.193.128:4502/rtp/239.76.253.134:9000$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://xeace.cn:8888/udp/239.93.0.118:2191$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://115.203.157.51:58888/rtp/233.50.200.192:5140$1920x1080
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+http://175.9.194.24:4502/rtp/239.76.253.134:9000$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
+http://60.164.128.167:8029/rtp/239.255.30.123:8231$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
@@ -508,13 +530,13 @@ https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
 http://122.224.232.218:8888/rtp/233.50.200.191:5140$1920x1080
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
-http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8
+http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
 https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
-http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
+http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS亚洲.png" group-title="港·澳·台",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS亚洲.png" group-title="港·澳·台",TVBS亚洲
@@ -536,9 +558,9 @@ http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="港·澳·台",香港卫视
 http://anren.live/HK/BSJDUFpB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="港·澳·台",香港卫视
-http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="港·澳·台",香港卫视
 https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
+#EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="港·澳·台",香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="港·澳·台",香港卫视
 https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
 #EXTINF:-1 tvg-id="" tvg-name="纬来体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纬来体育.png" group-title="港·澳·台",纬来体育
@@ -549,10 +571,14 @@ https://cloud.yumixiu768.com/tmp/123.m3u8
 rtmp://f13h.mine.nu/sat/tv771$1280x720
 #EXTINF:-1 tvg-id="" tvg-name="纬来体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纬来体育.png" group-title="港·澳·台",纬来体育
 https://cloud.yumixiu768.com:443/tmp/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="纬来体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纬来体育.png" group-title="港·澳·台",纬来体育
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三立新闻.png" group-title="港·澳·台",三立新闻
 http://8.137.59.151:3009/TV2/gat.php?id=49$1000x480
 #EXTINF:-1 tvg-id="" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-rtmp://f13h.mine.nu/sat/tv331$1280x720
-#EXTINF:-1 tvg-id="" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
+rtmp://f13h.mine.nu/sat/tv331$1280x720
+#EXTINF:-1 tvg-id="" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
+http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 
