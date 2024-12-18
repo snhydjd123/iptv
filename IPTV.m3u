@@ -1,195 +1,83 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000017
-#EXTINF:-1 ,CCTV2
-http://[2409:8087:74d9:21::6]/270000001128/9900000502/index.m3u8
-#EXTINF:-1 ,CCTV3
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000000
-#EXTINF:-1 ,CCTV4
-http://[2409:8087:74d9:21::6]/270000001128/9900000503/index.m3u8
-#EXTINF:-1 ,CCTV5
-http://[2409:8087:74d9:21::6]/270000001128/9900000005/index.m3u8
-#EXTINF:-1 ,CCTV6
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000223
-#EXTINF:-1 ,CCTV7
-http://[2409:8087:74d9:22::5]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000720
-#EXTINF:-1 ,CCTV8
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000582
-#EXTINF:-1 ,CCTV9
-http://[2409:8087:74d9:22::5]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000410
-#EXTINF:-1 ,CCTV10
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000156
-#EXTINF:-1 ,CCTV11
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512
-#EXTINF:-1 ,CCTV12
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000287
-#EXTINF:-1 ,CCTV13
-http://[2409:8087:74d9:22::7]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000010
-#EXTINF:-1 ,CCTV14
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000363
-#EXTINF:-1 ,CCTV15
-http://php.jdshipin.com/TVOD/gsyd.php?id=9900000512
-#EXTINF:-1 ,CCTV16
-http://[2409:8087:74d9:22::5]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000715
-#EXTINF:-1 ,CCTV17
-http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
-#EXTINF:-1 ,CCTV5+
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000021
-#EXTINF:-1 ,CCTV+
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 ,CGTN
-http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
-#EXTINF:-1 ,CGTN纪录
-http://[2409:8087:1a0a:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000410
-#EXTINF:-1 ,东方卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000301
-#EXTINF:-1 ,天津卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000329
-#EXTINF:-1 ,重庆卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000517/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000608
-#EXTINF:-1 ,黑龙江卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000169
-#EXTINF:-1 ,辽宁卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000557
-#EXTINF:-1 ,吉林卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000008
-#EXTINF:-1 ,内蒙古卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000158
-#EXTINF:-1 ,河北卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000094
-#EXTINF:-1 ,河北农民
-https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
-#EXTINF:-1 ,河南卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000361
-#EXTINF:-1 ,山东卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000527/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000087
-#EXTINF:-1 ,山东教育卫视
-http://[2409:8087:1a0a:df::402e]/wh7f454c46tw2754383805_1220934996/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&RTS=1713110589&from=4&hms_devid=1103&online=1713110589&vqe=3
-#EXTINF:-1 ,山西卫视
-http://[2409:8087:74d9:22::5]:6410/270000001128/9900000053/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000435
-#EXTINF:-1 ,湖北卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000522/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000107
-#EXTINF:-1 ,湖南卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000523/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000010
-#EXTINF:-1 ,广东卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000344
-#EXTINF:-1 ,深圳卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000318
-#EXTINF:-1 ,广西卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000456
-#EXTINF:-1 ,海南卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000103
-#EXTINF:-1 ,安徽卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000121
-#EXTINF:-1 ,浙江卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000134
-#EXTINF:-1 ,江苏卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000646
-#EXTINF:-1 ,江西卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000716
-#EXTINF:-1 ,福建东南卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000550
-#EXTINF:-1 ,厦门卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000058/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000753
-#EXTINF:-1 ,云南卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000035/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000373
-#EXTINF:-1 ,贵州卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000344
-#EXTINF:-1 ,四川卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000396
-#EXTINF:-1 ,陕西卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000802
-#EXTINF:-1 ,农林卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000060/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000233
-#EXTINF:-1 ,甘肃卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000023/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000957
-#EXTINF:-1 ,宁夏卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000995
-#EXTINF:-1 ,青海卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000042/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000546
-#EXTINF:-1 ,新疆卫视
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016
-#EXTINF:-1 ,西藏卫视
-http://[2409:8087:1a0a:df::4039]/wh7f454c46tw2710545171_1093384597/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8?icpid=88888888&RTS=1713110546&from=4&hms_devid=1212&online=1713110546&vqe=3
-#EXTINF:-1 ,NewTV爱情喜剧
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
-http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,NewTV超级电视剧
-http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1840265920_1021568913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,NewTV超级电影
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
-http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3
-#EXTINF:-1 ,NewTV潮妈辣婆
-http://[2409:8087:1a0a:df::402a]:80/wh7f454c46tw1933284823_1929264018/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 ,NewTV东北热剧
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,NewTV动作电影
-http://[2409:8087:1a0a:df::4016]/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,NewTV哒啵电竞
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000121/index.m3u8?
-#EXTINF:-1 ,NewTV哒啵赛事
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000097/index.m3u8
-#EXTINF:-1 ,NewTV古装剧场
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,NewTV欢乐剧场
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,NewTV海外剧场
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000115/index.m3u8
-#EXTINF:-1 ,NewTV家庭剧场
-http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000108
-#EXTINF:-1 ,NewTV金牌综艺
-http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1624655335_1622057483/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,NewTV惊悚悬疑
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,NewTV精品大剧
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,NewTV精品纪录
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000349
-#EXTINF:-1 ,NewTV精品萌宠
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 ,NewTV精品体育
-http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000102
-#EXTINF:-1 ,NewTV精品综合
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000116/index.m3u8?
-#EXTINF:-1 ,NewTV军旅剧场
-http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000107
-#EXTINF:-1 ,NewTV军事评论
-http://[2409:8087:1a0a:df::4016]/wh7f454c46tw1692016868_-1516333284/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 ,NewTV明星大片
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 ,NewTV农业致富
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 ,NewTV热播精选
-http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000115
-#EXTINF:-1 ,NewTV炫舞未来
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 ,NewTV怡伴健康
-http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000103
-#EXTINF:-1 ,NewTV中国功夫
-http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-123359714/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 ,动漫秀场
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226197/index.m3u8$LR•IPV6『线路2』
-#EXTINF:-1 ,都市剧场
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000018
-#EXTINF:-1 ,黑莓动画
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8
-#EXTINF:-1 ,欢笑剧场
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 ,纪实人文
-http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 ,睛彩广场舞
-http://[2409:8087:1a0a:df::402e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 ,睛彩篮球
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000405
-#EXTINF:-1 ,睛彩竞技
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000074
-#EXTINF:-1 ,睛彩青少
-http://[2409:8087:74d9:22::4]:6410/270000001128/9900000120/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000264
-#EXTINF:-1 ,====== 七彩戏剧 ======
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226358/index.m3u8
+#EXTINF:-1,CCTV1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1,CCTV2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1,CCTV3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1,CCTV4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1,CCTV5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1,CCTV6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1,CCTV7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1,CCTV8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1,CCTV9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1,CCTV10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1,CCTV11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1,CCTV12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1,CCTV13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1,CCTV14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1,CCTV15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1,CCTV16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1,CCTV17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1,CCTV5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1,北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$可回放
+#EXTINF:-1,东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$可回放
+#EXTINF:-1,江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8$可回放
+#EXTINF:-1,浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$可回放
+#EXTINF:-1,深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$可回放
+#EXTINF:-1,湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$可回放
+#EXTINF:-1,山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$可回放
+#EXTINF:-1,河北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$可回放
+#EXTINF:-1,河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$可回放
+#EXTINF:-1,贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$可回放
+#EXTINF:-1,天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8$可回放
+#EXTINF:-1,东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$可回放
+#EXTINF:-1,安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$可回放
+#EXTINF:-1,广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$可回放
+#EXTINF:-1,湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$可回放
+#EXTINF:-1,湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$可回放
+#EXTINF:-1,四川卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$可回放
+#EXTINF:-1,重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$可回放
+#EXTINF:-1,江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$可回放
+#EXTINF:-1,海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$可回放
+#EXTINF:-1,吉林卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$可回放
+#EXTINF:-1,辽宁卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$可回放
+#EXTINF:-1,黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$可回放
